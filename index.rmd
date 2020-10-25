@@ -1,0 +1,12 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<br>
+<center># **Henrique Lispector**
+<center>### The boy who lived and keeps on living
+
+<center>![](pics/LinkedIn.jpg){width=250px}
+
+This is my portfolio manager.

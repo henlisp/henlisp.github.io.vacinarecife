@@ -1,0 +1,13 @@
+output_dir: "."
+navbar:
+    title: "Henrique Lispector"
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Carteira"
+        href: carteira.html
+      - text: "About me"
+        href: about.html
+    right: 
+      - text: "Contact me"
+        href: contact.html
